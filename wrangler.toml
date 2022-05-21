@@ -1,0 +1,12 @@
+name = "workwork"
+account_id = "a0e9a519a696e7d8c04087b2ea84dfba"
+workers_dev = false
+
+compatibility_date = "2022-05-14"
+compatibility_flags = []
+
+main = "dist/workwork.js"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "workers"
